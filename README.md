@@ -44,13 +44,21 @@ Data cleaning and Star schema modeling
 Learned about page navigation, tooltip, and conditional formatting.
 Soft skills:Domain knowledge in hospitality
 
-Power BI Dashboard
+Power BI Dashboard:
+
+Home Page:
 
 ![Screenshot 2024-12-03 213226](https://github.com/user-attachments/assets/52fd1a59-cbc1-47d0-8866-101d9bb575bf)
 
+Booking Trends:
+
 ![Screenshot 2024-12-03 213251](https://github.com/user-attachments/assets/d9fe362a-a737-4d3d-a4cc-c7a4745dd4fe)
 
+Revenue Trends:
+
 ![Screenshot 2024-12-03 213308](https://github.com/user-attachments/assets/f5ecbf9c-30c2-4e26-8722-8a1037e70ca2)
+
+Key Metrics:
 
 ![Screenshot 2024-12-03 213337](https://github.com/user-attachments/assets/615d84c6-e2db-484a-8a60-9be8faa51598)
 
